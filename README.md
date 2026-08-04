@@ -1,4 +1,4 @@
-# Stock-Market-Analysis_&_Trading_Intelligence-powerbi
+# Stock-Market-Analysis_&_Trading-Intelligence-powerbi
 A comprehensive Power BI Dashboard that analyzes stock market trends, and investment signals across 20 tickers and 7 sectors for the years 2024–2025. This dashboard provides actionable insights for traders and investors by visualizing key market metrics including volume, returns, volatility, and buy/sell signals in a clean, interactive interface.
 
 🗂️ Dashboard Features
